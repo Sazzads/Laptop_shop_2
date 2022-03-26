@@ -52,6 +52,7 @@ const Shop = () => {
             </div>
             <div className="cart-container">
                 {/* <Cart cart={cart}></Cart> */}
+                <h3>selected Laptops</h3>
                 {
                     cart.map((item) => (
                         <Item item={item} key={item.id}></Item>
