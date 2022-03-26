@@ -14,6 +14,21 @@
 }
 .cart-container{
     background-color: rgb(236, 236, 236);
+    
+}
+
+.cartBtnn{
+background-color: rgba(42, 193, 212, 0.377);
+border: 1px solid blue;
+border-radius: 20px;
+
+}
+.cart-sticky{
+    position: sticky;
+    top: 0;
+}
+.cartBtnn:hover{
+    background-color: whitesmoke;
 }
 
 @media screen and (max-width:1100px){

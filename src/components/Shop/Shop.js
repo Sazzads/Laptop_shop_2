@@ -51,20 +51,21 @@ const Shop = () => {
                 }
             </div>
             <div className="cart-container">
-                {/* <Cart cart={cart}></Cart> */}
-                <h3>selected Laptops</h3>
-                {
-                    cart.map((item) => (
-                        <Item item={item} key={item.id}></Item>
-                    )
-                    )
-                }
-                <br />
+                <div className='cart-sticky'>
+                    <h3>selected Laptops</h3>
+                    {
+                        cart.map((item) => (
+                            <Item item={item} key={item.id}></Item>
+                        )
+                        )
+                    }
+                    <br />
+                    <button className='cartBtnn' onClick={handleChoseOne}>Choose One For Me</button>
+                    <br />
+                    <br />
+                    <button className='cartBtnn' onClick={handleReset}>Choose Again </button>
+                </div>
 
-                <button onClick={handleChoseOne}>Choose One For Me</button>
-                <br />
-                <br />
-                <button onClick={handleReset}>Choose Again </button>
             </div>
         </div>
     );
