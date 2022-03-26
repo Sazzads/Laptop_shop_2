@@ -1,2 +1,2 @@
 <h1>laptop shop</h1>
-<p>this is react project </p>
+<a href="https://idyllic-rolypoly-f89b2a.netlify.app/">https://idyllic-rolypoly-f89b2a.netlify.app/</a>
