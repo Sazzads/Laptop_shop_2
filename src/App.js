@@ -12,8 +12,6 @@ function App() {
       <h2> how react works?</h2>
       <p>React is a JavaScript library that uses declarative code to design user interfaces in a logical and efficient manner. It can be used to assist in the development of single-page applications, mobile apps, and complicated apps.
         React is a declarative programming language. Imagine the following code written as an app to demonstrate what we mean by declarative code.</p>
-
-
       <h2>
         what is the difference between props and state ?
       </h2>
