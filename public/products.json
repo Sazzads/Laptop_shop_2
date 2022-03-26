@@ -1,0 +1,56 @@
+[
+    {
+        "id": "101",
+        "name": "HP du1115TU",
+        "price": 33200,
+        "img": "../images/101.jpg"
+    },
+    {
+        "id": "102",
+        "name": "HP Celeron",
+        "price": 34200,
+        "img": "../images/102.jpg"
+    },
+    {
+        "id": "103",
+        "name": "HP Pavilion ",
+        "price": 67000,
+        "img": "../images/103.jpg"
+    },
+    {
+        "id": "104",
+        "name": "Dell Vostro14",
+        "price": 45400,
+        "img": "../images/104.jpg"
+    },
+    {
+        "id": "105",
+        "name": "Dell Inspiron",
+        "price": 62800,
+        "img": "../images/105.jpg"
+    },
+    {
+        "id": "106",
+        "name": "Apple MacBook",
+        "price": 126000,
+        "img": "../images/106.jpg"
+    },
+    {
+        "id": "107",
+        "name": "Asus Vivobook",
+        "price": 45600,
+        "img": "../images/107.jpg"
+    },
+    {
+        "id": "108",
+        "name": "Acer Aspire",
+        "price": 48500,
+        "img": "../images/108.jpg"
+    },
+    {
+        "id": "109",
+        "name": "Walton Tamarind",
+        "price": 77500,
+        "img": "../images/109.jpg"
+    }
+]
